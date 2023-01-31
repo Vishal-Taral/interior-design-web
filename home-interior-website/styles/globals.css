@@ -1,0 +1,8 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.leftRightMargin{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
